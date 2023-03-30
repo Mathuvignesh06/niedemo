@@ -9,7 +9,7 @@ function App() {
         <h1>
          Welcome to NIE
         </h1>
-        <span style={{fontSize: '14px',color: '#dbdbdb'}}>Thamotharan Pillai</span>
+        <span style={{fontSize: '14px',color: '#dbdbdb'}}>Thamotharan N</span>
       </header>
     </div>
   );
